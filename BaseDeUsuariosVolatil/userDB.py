@@ -1,5 +1,5 @@
 from typing import Optional
-from fastapi import FastAPI, Response, status
+from fastapi import FastAPI
 from pydantic import BaseModel
 
 app = FastAPI()
